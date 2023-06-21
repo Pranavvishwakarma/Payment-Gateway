@@ -1,0 +1,12 @@
+.seatss{
+    padding: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+#seats-free{
+    font-size: 50px;
+    color: lime;
+    padding: 10px;
+}
